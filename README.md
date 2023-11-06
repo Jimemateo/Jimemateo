@@ -2,6 +2,7 @@
 
 Desarrolladora Full Stack junior con pasión por la programación. 💻
 
+
 Disfruto enormemente el proceso creativo de construir soluciones digitales y la satisfacción de ver ideas plasmadas en código. He desarrollado habilidades blandas como trabajo en equipo, comunicación efectiva, resolución de problemas, gestión del tiempo y sobre todo, aprendizaje continuo, que me permitieron abordar problemas de manera lógica, buscar soluciones eficaces y afianzar mi capacidad para comunicarme de manera clara. 💡
 
 Mi objetivo es incorporarme a largo plazo en el mundo IT, afianzándome en un equipo de desarrollo donde pueda seguir aprendiendo y creciendo como programadora. 🚀
